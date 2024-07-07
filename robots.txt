@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atousivena.github.io/sitemap.html.gz
+Sitemap: https://atousivena.github.io/app/sitemap.html.gz
+Sitemap: https://atousivena.github.io/assets/sitemap.html.gz
+Sitemap: https://atousivena.github.io/css/sitemap.html.gz
+Sitemap: https://atousivena.github.io/includes/sitemap.html.gz
+Sitemap: https://atousivena.github.io/item/sitemap.html.gz
+Sitemap: https://atousivena.github.io/src/sitemap.html.gz
